@@ -1,7 +1,7 @@
 {
-  "name": "testicola-project",
-  "version": "0.1.0",
-  "description": "blank template for productive work",
+  "name": "dz2",
+  "version": "0.1.10",
+  "description": "my blank template",
   "devDependencies": {
     "del": "^0.1.3",
     "gulp": "^3.8.9",
@@ -18,6 +18,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/wowua/_blank-template.git"
+    "url": "https://github.com/KolesnikConstantin/temlate.git"
   }
 }
