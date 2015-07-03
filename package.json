@@ -1,6 +1,6 @@
 {
   "name": "dz2",
-  "version": "0.1.10",
+  "version": "1.1.0",
   "description": "my blank template",
   "devDependencies": {
     "del": "^0.1.3",
